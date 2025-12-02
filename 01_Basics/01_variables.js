@@ -1,12 +1,12 @@
 const accountId = 1234567890; 
 let accountEmail = "abc@gmail.com"
-var accountPassword = "9999999999"
+var accountPassword = "99999"
 accountCity = "Patna"
 let accountState;
 
 // accountId = 2 not allowed, as const cannot be reassigned//
 accountEmail ="xyz@gmail.com"
-accountPassword = "0000000000"
+accountPassword = "00000"
 accountCity = "Ranchi"
 
 
